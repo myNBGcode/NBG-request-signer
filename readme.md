@@ -4,7 +4,7 @@
 Windows Forms application for generating detached JWS from a json payload input.
 
 ## Executable file
-The exe is in [Executable folder](Executable/RequestSigner.exe).
+The exe is in the [Executable folder](Executable/RequestSigner.exe).
 
 ## Usage
 
